@@ -1,0 +1,112 @@
+
+{
+
+	font-family: "Calibri", monospace;
+
+	/* CSS Reset */
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+h2	{
+	font-family: "Calibri", sans-serif;
+}
+
+h3	{
+	font-family: "Calibri", sans-serif;
+}
+
+h4	{
+
+	font-family: "Calibri", sans-serif;
+
+}
+
+p {
+	font-family: "Tahoma", sans-serif;
+}
+
+a {
+	text-decoration: none;
+}
+
+#landing {
+	text-align: center;
+}
+
+#profile {
+	height: 300px;
+	width: 300px;
+	margin-top: 50px;
+	margin-bottom: 10px;
+}
+
+#name {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+#title {
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin: center;
+
+}
+
+#intro {
+	width: 200px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#tools {
+	margin: center;
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#tools-title {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+#projects {
+	text-align: center;
+}
+
+.tools-img {
+	height: 100px;
+	width: 100px;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+#contact {
+	text-align: center;
+	padding: 16px;
+	margin-top: 4px;
+	background-color: azure;
+}
+
+#headernav {
+	text-align: center;
+	background-color: azure;
+	padding: 20px;
+}
+
+.card {
+	background-color: lightblue;
+	height: 400px;
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+.card-img {
+	height: 300px;
+	width: 300px;
+}
+

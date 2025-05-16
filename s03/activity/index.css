@@ -93,7 +93,9 @@ a {
 #headernav {
 	text-align: center;
 	background-color: azure;
-	padding: 20px;
+	padding: 16px;
+	margin-bottom: 4px;
+
 }
 
 .card {
@@ -108,5 +110,11 @@ a {
 .card-img {
 	height: 300px;
 	width: 300px;
+}
+
+.nav-link {
+	margin-left: auto;
+	margin-right: auto;
+	color: black;
 }
 
